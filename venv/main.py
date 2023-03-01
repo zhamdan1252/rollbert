@@ -8,8 +8,6 @@ import os
 import requests
 import json
 
-
-TOKEN = "MTA3ODc4Njk0MzU1NjUyMjA0NQ.GzEXyc.WjqdH9zEWqg_Rof0EByC22UA0avKXAR8aaabAA"
 intents = discord.Intents.default()
 intents.messages = True
 intents.message_content = True
